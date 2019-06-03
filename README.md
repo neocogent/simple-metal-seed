@@ -12,6 +12,8 @@ The SVG files provided are print templates. A pencil or pen can be used to mark 
 
 I have included svg files for credit card size (convenient to carry or store) and snapshot photo size (can be hidden in photo frame as backing). It is also quite feasible to laminate a metal plate with paperboard or printed reference material to make it less visible. Variations of these examples are endless to suit personal needs. Use them only as starting points. I added a legend line as reminder of dot order and a side marker (1 or 2), top right.
 
+![Credit Card Layout](bip39Q12.png)
+
 ### Dot Patterns
 
 The basic pattern is shown as legend in the svg file as reminder when decoding. Only four letters are required for BIP39 word uniqueness. The first letter of each word is marked with a single dot. The second with two vertical dots, third with two horizontal dots, and last with two diagonal dots. 
@@ -20,7 +22,7 @@ Some words have two of the same letters - in that case a simple overlay combinat
 
 ### Reading Back Someday
 
-Either write the alphabet on a paper edge (match spacing). Line up the paper edge as a ruler along the rows and write down letters according to dot pattern for ordering. Simple.
+Write the alphabet on a paper edge (match spacing). Line up the paper edge as a ruler along the rows and write down letters according to dot pattern for ordering. Simple.
 
 ### Further Obfuscation
 
