@@ -30,4 +30,4 @@ I've included a couple credit card size "Knot Reference" images for printing. Th
 
 Another simple extension is to scramble the alphabet ruler ordering. I experimented with simple letter shifts using a password. For example, if the password is BOGART then after writing the alphabet change B to O, O to G, G to A, and so on wrapping around. This is not technically very secure and so only provides obfuscation of the words, not encryption. It may be enough to delay or put off casual attackers finding the metal makes no immediate sense but any determined cracker can analyze the BIP39 word list and match up candidate words, reversing the letter shifts.
 
-It adds another thing that must be remembered and so I presonally haven't used it. **KISS**.
+It adds another thing that must be remembered and so I personally haven't used it. **KISS**.
