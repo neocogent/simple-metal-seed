@@ -20,7 +20,7 @@ The basic pattern is shown as legend in the svg file as reminder when decoding. 
 
 Some words have two of the same letters - in that case a simple overlay combination of dots works. It is never ambiguous because the remaining letters indicate other positions. There is a few cases where a word has three same letters. I used a four dot marking for that.
 
-### Reading Back Someday
+### Reading Back (someday after the big fire)
 
 Write the alphabet on a paper edge (match spacing). Line up the paper edge as a ruler along the rows and write down letters according to dot pattern for ordering. Simple.
 
