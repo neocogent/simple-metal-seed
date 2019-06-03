@@ -6,13 +6,13 @@ A grid with alphabetic columns is used to the mark letters of each word. Other s
 
 The SVG files provided are print templates. A pencil or pen can be used to mark dots in the grid and then once taped to metal, whether small credit card size plate or steel bridge girders in plain site, can be marked with a cheap spring loaded center punch. Below is an example on aluminum. For long term fireproof storage my preference is low-cost Titanium plate. I bought low-cost Grade 2 1mm thick 10x10cm plate on ebay for a mere $3. A spring loaded center punch only costs $2-3 (if one is not already in your tool kit). Together they make an fast, easy method for marking most metals.
 
-![Example](bip39test.jpg)
+<img src="bip39test.jpg" alt="Example" width="500">
 
 ### SVG Layout Examples
 
 I have included svg files for credit card size (convenient to carry or store) and snapshot photo size (can be hidden in photo frame as backing). It is also quite feasible to laminate a metal plate with paperboard or printed reference material to make it less visible. Variations of these examples are endless to suit personal needs. Use them only as starting points. I added a legend line as reminder of dot order and a side marker (1 or 2), top right.
 
-![Credit Card Layout](bip39Q12.png)
+<img src="bip39Q12.png" alt="Credit Card Layout" width="300">
 
 ### Dot Patterns
 
