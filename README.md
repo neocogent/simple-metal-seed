@@ -10,7 +10,7 @@ The SVG files provided are print templates. A pencil or pen can be used to mark 
 
 ### SVG Layout Examples
 
-I have included svg files for credit card size (convenient to carry or store) and snapshot photo size (can be hidden in photo frame as backing). It is also quite feasible to laminate a metal plate with paperboard or printed reference material to make it less visible. Variations of these examples are endless to suit personal needs. Use them only as starting points. I added a legend line as reminder of dot order and a side marker (1 or 2), top right.
+I have included svg files for credit card size (convenient to carry or store) and snapshot photo size (can be hidden in photo frame as backing). It is also quite feasible to laminate a metal plate with paperboard or printed reference material to make it less visible. Variations of these examples are endless to suit personal needs. Use them only as starting points. I added a legend line as reminder of dot order and a side marker (1 or 2), top right. These svg files load and print fine in Inkscape but the preview usually seems to misalign the text.
 
 <img src="bip39Q12.png" alt="Credit Card Layout" width="300">
 
