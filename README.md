@@ -42,7 +42,7 @@ I demonstrate here how to do that using a python console without requiring any o
 
 - Generate 24 words from dice rolls using [diceware](https://github.com/taelfrinn/Bip39-diceware) as usual.
 
-- Look up words in list and write down the word index values. Make sure 0-based. Often the word list starts with 1 not 0 - so always subtract 1. You will have a list like this on paper:
+- Look up words in [BIP39 word list](https://github.com/bitcoin/bips/blob/master/bip-0039/bip-0039-wordlists.md) and write down the word index values. Make sure 0-based. Often the word list starts with 1 not 0 - so always subtract 1. You will have a list like this on paper:
 
     `1628,1924,582,1492... etc`
 
