@@ -48,7 +48,7 @@ I demonstrate here how to do that using a python console without requiring any o
 
 - On a safe system, open a python console. In Linux terminal just type `python`. We need to import two modules. Type, `import binascii, hashlib`.
 
-- Start the calculation. We'll use 's' as our seed variable. Start with the first index. `s=1628`. For each additional word index type, `s=s*2048+1924` (use your numbers). You can use the up arrow key and edit the index value so it's actually pretty fast entering them.
+- Start the calculation. We'll use 's' as our seed variable. Start with the first index. `s=1628`. For each additional word index type, `s=s<<11+1924` (use your numbers). You can use the up arrow key and edit the index value so it's actually pretty fast entering them.
 
 - When all 24 words have been entered you now can copy/paste this code, which will calculate the checksum, and output the adjusted correct index for the last word.
 
